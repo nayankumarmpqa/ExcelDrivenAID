@@ -1,0 +1,4 @@
+# Created at 2020-05-10T18:03:37.475
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Java workspace\ExcelDrivenAID\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
